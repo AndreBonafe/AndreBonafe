@@ -1,4 +1,35 @@
-### Hi there 👋
+# Oh, Hello there, i'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/)
+<img src="https://discourse.disneyheroesgame.com/uploads/default/original/3X/d/f/df2b6a5b7af0e56cd38a5947527465473fa5ac66.gif">
+
+## I Try all the time to help who i can and believe that a good action can take to another!
+
+Im a **software developer** and have experience working with:
+<ul>
+<li> HTML (5) </li>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<li> CSS (3) </li>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<li> Javascript (ES6+) </li>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<li> React (+ Redux, + Hooks) </li>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</ol>
+<br><br>
+
+I am used to working with GitHub in an agile (and remote - with both synchronous and asynchronous activities) environment.
+
+I am always willing to learn new tools and languages, and to get to know in more depth the ones I already work with.
+
+### Catch me on:
+<a href="https://wa.me/5511988200088" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/andre-bonafe/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://twitter.com/DeRevinho" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
 
 <!--
 **AndreBonafe/AndreBonafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
