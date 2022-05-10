@@ -3,16 +3,16 @@
 
 ## I Try all the time to help who i can and believe that a good action can take to another!
 
-Im a **software developer** and have experience working with:
+Im a **software developer** and have knowledge to work with those technologies:
 <ul>
 <li> HTML (5) </li>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <li> CSS (3) </li>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <li> Javascript (ES6+) </li>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <li> React (+ Redux, + Hooks) </li>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<li> Docker </li>
+<li> MySQL </li>
+<li> Node.JS </li>
+<li> TypeScript </li>
 </ol>
 <br><br>
 
