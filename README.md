@@ -1,4 +1,4 @@
-# Oh, Hello there, i'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/)
+# Hello there, i'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/)
 <img src="https://static.wikia.nocookie.net/shipping/images/c/cc/Quirrel_Bench.jpg/revision/latest?cb=20240604123632">
 
 ## I Try all the time to help who i can and believe that a good action can take to another!
