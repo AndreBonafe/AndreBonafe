@@ -1,5 +1,5 @@
 # Oh, Hello there, i'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/)
-<img src="https://images.steamusercontent.com/ugc/922549301949895654/87631B808C8A3EF5EF246B8C6AA66CE652E74859/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img src="https://static.wikia.nocookie.net/shipping/images/c/cc/Quirrel_Bench.jpg/revision/latest?cb=20240604123632">
 
 ## I Try all the time to help who i can and believe that a good action can take to another!
 
