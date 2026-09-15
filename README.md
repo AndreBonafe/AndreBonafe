@@ -1,47 +1,38 @@
 # Hello there, i'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/)
 <img src="https://static.wikia.nocookie.net/shipping/images/c/cc/Quirrel_Bench.jpg/revision/latest?cb=20240604123632">
 
-## I Try all the time to help who i can and believe that a good action can take to another!
+# Hi, I'm André Bonafé 👋
 
-Im a **software developer** and have knowledge to work with those technologies:
-<ul>
-<li> HTML (5) </li>
-<li> CSS (3) </li>
-<li> Javascript (ES6+) </li>
-<li> React (+ Redux, + Hooks) </li>
-<li> Docker </li>
-<li> MySQL </li>
-<li> Node.JS </li>
-<li> TypeScript </li>
-</ol>
-<br><br>
+I'm a Full-Stack Developer and Tech Lead based in São Paulo, Brazil.
 
-I am used to working with GitHub in an agile (and remote - with both synchronous and asynchronous activities) environment.
+I build and lead the development of web and mobile products, working across
+frontend, backend, infrastructure, and delivery. My main stack is React,
+TypeScript, and Node.js, with experience designing APIs, integrating services,
+working with relational databases, and shipping production systems.
 
-I am always willing to learn new tools and languages, and to get to know in more depth the ones I already work with.
+In my current role, I combine hands-on engineering with technical leadership:
+making architectural decisions, reviewing code, supporting developers,
+coordinating work across different stacks, and collaborating with product and
+design to turn business problems into reliable software.
 
-### Catch me on:
-<a href="https://wa.me/5511988200088" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/andre-bonafe/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://twitter.com/DeRevinho" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
+## Core technologies
 
-<!--
-**AndreBonafe/AndreBonafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- React, React Native, TypeScript, and JavaScript
+- Node.js and Express
+- PostgreSQL and MySQL
+- Docker, AWS, EKS, and Nginx
+- GitHub Actions and CI/CD
+- REST APIs and third-party integrations
 
-Here are some ideas to get you started:
+## How I work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I take ownership of problems from discovery to production.
+- I value clear communication, practical architecture, and maintainable code.
+- I work effectively in remote teams, both synchronously and asynchronously.
+- I enjoy mentoring developers and helping teams make better technical decisions.
+- I continuously learn new tools while deepening the technologies I already use.
+
+## Connect with me
+
+- [LinkedIn](COLOQUE-SEU-LINK-AQUI)
+- [Email](mailto:COLOQUE-SEU-EMAIL-AQUI)
