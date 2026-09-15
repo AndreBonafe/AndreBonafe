@@ -1,7 +1,6 @@
-# Hello there, i'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/)
 <img src="https://static.wikia.nocookie.net/shipping/images/c/cc/Quirrel_Bench.jpg/revision/latest?cb=20240604123632">
 
-# Hi, I'm André Bonafé 👋
+# Hi, I'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/) 👋
 
 I'm a Full-Stack Developer and Tech Lead based in São Paulo, Brazil.
 
