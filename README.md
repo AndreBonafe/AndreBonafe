@@ -1,7 +1,7 @@
 # Hi, I'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/) 👋
-<img src="https://static.wikia.nocookie.net/shipping/images/c/cc/Quirrel_Bench.jpg/revision/latest?cb=20240604123632">
-
 **Full-Stack Developer · Tech Lead · React · TypeScript · Node.js**
+
+<img src="https://static.wikia.nocookie.net/shipping/images/c/cc/Quirrel_Bench.jpg/revision/latest?cb=20240604123632">
 
 ### I believe strong teams are built through knowledge sharing, mutual support, and a genuine willingness to help others grow.
 
