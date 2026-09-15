@@ -1,8 +1,11 @@
+# Hi, I'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/) 👋
 <img src="https://static.wikia.nocookie.net/shipping/images/c/cc/Quirrel_Bench.jpg/revision/latest?cb=20240604123632">
 
-# Hi, I'm [André Bonafé](https://www.linkedin.com/in/andre-bonafe/) 👋
+**Full-Stack Developer · Tech Lead · React · TypeScript · Node.js**
 
-I'm a Full-Stack Developer and Tech Lead based in São Paulo, Brazil.
+### I believe strong teams are built through knowledge sharing, mutual support, and a genuine willingness to help others grow.
+
+I'm based in São Paulo, Brazil, and open to remote international opportunities.
 
 I build and lead the development of web and mobile products, working across
 frontend, backend, infrastructure, and delivery. My main stack is React,
